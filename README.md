@@ -6,7 +6,7 @@
 
 **Angular · Next.js · Nuxt · Telegram Mini Apps**
 
-From a design file to a working product.
+From a project brief to a working product.
 
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&amp;logo=angular&amp;logoColor=white" alt="Angular" />
@@ -24,11 +24,28 @@ From a design file to a working product.
 
 I'm **Danil Khatin (Данил Хатин)**, a web developer also known as **yLuTo4KA**. I build web applications with **Angular, Next.js, and Nuxt**, with hands-on experience developing **Telegram Mini Apps using Angular + Strapi**.
 
-I enjoy the part where a design becomes something people can actually use: connecting screens, implementing product logic, and bringing the frontend and backend together.
+I take a project brief and supplied designs, work out how the application should be built, and implement the solution independently. My work includes planning the technical approach, implementing product logic, connecting the frontend and backend, and figuring out how to integrate AI into the product where needed.
 
 - 🧩 **Main focus:** web applications and Telegram Mini Apps.
-- 🤝 **How I collaborate:** take a designer's layouts and product requirements through to implementation.
+- 🛠️ **How I work:** turn assigned projects and requirements into working applications, taking responsibility for technical decisions and implementation.
 - 🎂 **Born:** October 20, 2004.
+
+## Hard skills
+
+- **Frontend development:** TypeScript, JavaScript, HTML, CSS, Angular, Next.js, and Nuxt.
+- **Telegram Mini Apps:** building Angular applications that run inside Telegram.
+- **Backend integration:** connecting application features and data flows to Strapi and APIs.
+- **AI integration:** working out how AI fits into a product and implementing the integration and user-facing features.
+- **Product implementation:** turning designs and requirements into connected screens, user flows, and application logic.
+- **Technical planning:** breaking a project into implementation tasks and choosing an approach for each feature.
+
+## Soft skills
+
+- **Ownership:** taking responsibility for a project from understanding the task to implementing the solution.
+- **Independent problem-solving:** figuring out how to build features and resolve technical challenges.
+- **Analytical thinking:** translating product requirements into concrete technical decisions.
+- **Self-directed learning:** researching unfamiliar tools and integrations when a project requires them.
+- **Collaboration:** working with supplied designs and requirements while handling the technical implementation independently.
 
 ## Core stack
 
@@ -65,9 +82,9 @@ I enjoy the part where a design becomes something people can actually use: conne
 
 Commissioned projects I developed as **Telegram Mini Apps using Angular + Strapi**.
 
-**My role:** translating supplied designs and product requirements into working applications, implementing the frontend and connecting it to the Strapi backend.
+**My role:** independently developing the applications from assigned project briefs and supplied designs. I worked out the technical approach, implemented the product logic and frontend, connected the Strapi backend, and integrated AI features where required.
 
-Across these projects, my work focused on turning individual screens into connected user flows inside Telegram: onboarding, navigation, product features, and application data.
+Across these projects, I made the implementation decisions needed to turn requirements into connected user flows inside Telegram: onboarding, navigation, product features, backend data, and AI interactions where applicable.
 
 ### 01 / Crypto Analytics
 
@@ -82,7 +99,7 @@ A crypto analytics product that brings token research, a curated watchlist, and 
 - Built the Angular interface and connected the product screens into a Telegram Mini App.
 - Implemented onboarding screens for collecting trading experience, token preferences, portfolio size, and engagement preferences.
 - Built watchlist and token research views for presenting recommendations, supporting context, and risk information.
-- Implemented the conversational interface for the product's AI assistant.
+- Worked out how to integrate the AI assistant into the application and implemented its integration and conversational interface.
 - Connected the frontend to the Strapi backend to support the application's data flows.
 
 **Implementation focus:** making a data-heavy product usable on a small screen, with a clear path from initial setup to token discovery, detailed research, and the assistant.
@@ -103,7 +120,7 @@ A nutrition application built around personalized meal plans, food logging, and 
 - Implemented the onboarding flow for nutrition goals, activity levels, habits, and food preferences.
 - Built the meal planning, recipe browsing, and food logging interfaces.
 - Implemented screens for assembling meal plans and reviewing nutrition progress.
-- Built the AI coach interface within the application's nutrition workflow.
+- Worked out how to integrate the AI coach into the nutrition workflow and implemented its integration and interface.
 - Connected the frontend screens to backend data, bringing setup, planning, and daily tracking into one application.
 
 **Implementation focus:** connecting a detailed setup flow with the actions users repeat every day, so meal plans, recipes, food entries, and progress work together within the Mini App.
@@ -135,10 +152,11 @@ A breathwork and mindfulness application organized around personal goals, daily 
 
 <div align="center">
 
-**Design becomes a product when someone builds it. That's my part.**
+**I turn project briefs into working products, from technical decisions to implementation.**
 
 <sub>yLuTo4KA · Web Development · Telegram Mini Apps</sub>
 
 </div>
 
 <!-- Add your own confirmed contact links here. -->
+
